@@ -1,0 +1,21 @@
+About: Unfinshed project, shifted focus to another project.
+
+node js, mongodb atlast, and express project
+
+"script": {
+	"start": "node index",
+	"dev": "nodemon index"
+
+}
+Mongo, express, and node js technologies. Connecting to database
+
+npm init -y - package.json
+npm install expess - package-lock.json
+npm install nodemon - automatic update after save
+npm install mongoose - database
+
+npm install express node - install both express & nodemon
+
+or
+
+replace 'install' with 'i'
